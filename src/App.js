@@ -56,7 +56,7 @@ const App = () => {
         className="absolute w-full h-full object-cover"
         muted // Keep the video muted
       >
-        <source src='https://link.storjshare.io/raw/ju547tio2mtdabucmvsalnx6ztua/simplyfy/SimplyfyResources/diwali.mp4' type="video/mp4" />
+        <source src='https://link.storjshare.io/raw/jvmjqhm7htch7gma55rqmcmyjcvq/simplyfy/SimplyfyResources/diwalifinal.mp4' type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
